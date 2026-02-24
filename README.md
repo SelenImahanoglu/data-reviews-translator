@@ -18,3 +18,10 @@ Nicel bulgularımızı, customers tarafından yazılan review’ların nitel (qu
 Hints:
 - Dokümantasyonu okuyup API’yi kendi başınıza çalıştırmayı deneyin – 10 satırdan fazla kod olmayacak
 - Yeni bir notebook oluşturmakta ya da direkt olarak favori code editor’ınızda kod yazmakta özgürsünüz
+
+
+## Qualitative Insights from 1-Star Reviews
+Using `deep-translator`, we sampled and translated 1-star reviews from Portuguese to English. Our qualitative analysis revealed three main themes:
+1. **Logistics & Delays:** Confirms our quantitative finding that `wait_time` is a major issue (e.g., "It's been almost a month...").
+2. **Wrong/Missing Products (New Hypothesis):** Many customers received completely different or incomplete items, indicating severe seller-side quality control issues.
+3. **Poor Customer Service:** Customers often leave 1-star reviews because they cannot get a response from sellers for refunds or cancellations.
